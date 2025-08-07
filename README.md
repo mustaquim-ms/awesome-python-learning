@@ -53,13 +53,13 @@ A carefully curated, beginner-friendly, and fully free learning path to help you
 
 ### 📚 Books & Reading Material
 
-- *Automate the Boring Stuff with Python* — Al Sweigart (free online)  
-- *Python Crash Course* — Eric Matthes (purchase, often recommended)  
-- *Fluent Python* — Luciano Ramalho (advanced; essential for mastery)  
-- *Effective Python* — Brett Slatkin  
-- *Think Python* — Allen B. Downey (free PDF)  
-- *Dive Into Python 3* — Mark Pilgrim (free online)  
-- [The Python Tutorial (official docs)](https://docs.python.org/3/tutorial/index.html)  
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — Al Sweigart (free online book)  
+- [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) — Eric Matthes (purchase recommended)  
+- [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) — Luciano Ramalho (advanced)  
+- [Effective Python](https://effectivepython.com/) — Brett Slatkin (selected chapters online)  
+- [Think Python](https://greenteapress.com/wp/think-python-2e/) — Allen B. Downey (free PDF)  
+- [Dive Into Python 3](https://diveintopython3.problemsolving.io/) — Mark Pilgrim (free online)  
+- [The Python Tutorial (Official Docs)](https://docs.python.org/3/tutorial/index.html)  
 
 ---
 
